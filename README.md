@@ -38,12 +38,9 @@ $ npm run test:cov
 ```bash
 
 $ npm run build
-
-
-
-$ npm install
+$ npm install --force
 $ cd dist
-$ NODE_ENV=production node main.js
+$ node main.js
 
 ```
 
