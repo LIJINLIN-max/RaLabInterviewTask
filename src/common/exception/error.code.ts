@@ -1,0 +1,6 @@
+
+export class ErrorCode {
+  INTERNAL_SERVER_ERROR = 500;
+  UNAUTHORIZED = 401;
+  FORBIDDEN = 403;
+}
